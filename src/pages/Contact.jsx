@@ -13,8 +13,8 @@ function Contact() {
         <div className="contact-methods">
           <div className="contact-method-card">
             <span className="method-label">Direct Email</span>
-            <a href="mailto:suedson@clearfield.group" className="method-link">
-              suedson@clearfield.group
+            <a href="mailto:contact@clearfield.group" className="method-link">
+              contact@clearfield.group
             </a>
           </div>
 
@@ -26,7 +26,7 @@ function Contact() {
               rel="noopener noreferrer" 
               className="method-link"
             >
-              +44 7490 930045
+              Message on WhatsApp
             </a>
           </div>
         </div>

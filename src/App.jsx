@@ -62,8 +62,8 @@ function App() {
       <footer>
         <div className="footer-text">
           © 2026 Clearfield Group LLC
-          <a href="mailto:suedson@clearfield.group" className="footer-email">
-            suedson@clearfield.group
+          <a href="mailto:contact@clearfield.group" className="footer-email">
+            contact@clearfield.group
           </a>
         </div>
       </footer>
