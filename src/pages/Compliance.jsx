@@ -39,7 +39,7 @@ function Compliance() {
           <section className="policy-item">
             <h2 className="policy-heading">Whistleblowing Channel</h2>
             <p className="policy-text">
-              Concerns about conduct that may breach this framework may be reported confidentially to: <a href="mailto:contact@clearfield.group" className="compliance-email">contact@clearfield.group</a>
+              Concerns about conduct that may breach this framework may be reported confidentially to: <a href="mailto:compliance@clearfield.group" className="compliance-email">compliance@clearfield.group</a>
             </p>
           </section>
         </div>
