@@ -48,6 +48,15 @@ function Home({ setActivePage }) {
               Commercial strategy and market development for digital operators.
             </p>
           </div>
+          <div className="pillar-card">
+            <div className="pillar-header">
+              <span className="pillar-number">IV.</span>
+              <h3 className="pillar-name">Domain & Brand Protection</h3>
+            </div>
+            <p className="pillar-description">
+              Domain portfolio strategy, trademark monitoring, and brand protection in regulated markets.
+            </p>
+          </div>
         </div>
       </section>
     </div>
