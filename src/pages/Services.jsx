@@ -44,6 +44,19 @@ function Services() {
             </p>
           </div>
         </section>
+
+        {/* Section 4 */}
+        <section className="service-item">
+          <div className="service-meta">
+            <span className="service-number">04</span>
+            <h2 className="service-heading">Domain & Brand Protection</h2>
+          </div>
+          <div className="service-content">
+            <p>
+              Advisory on domain portfolio strategy, trademark monitoring, and brand protection for operators in regulated markets. Engagements cover domain segmentation, legally defensible usage frameworks, and enforcement coordination.
+            </p>
+          </div>
+        </section>
       </div>
     </div>
   );
