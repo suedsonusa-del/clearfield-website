@@ -2,6 +2,7 @@ import { useState } from 'react';
 import Home from './pages/Home';
 import Services from './pages/Services';
 import About from './pages/About';
+import Compliance from './pages/Compliance';
 import Contact from './pages/Contact';
 
 function App() {
@@ -15,6 +16,8 @@ function App() {
         return <Services />;
       case 'about':
         return <About />;
+      case 'compliance':
+        return <Compliance />;
       case 'contact':
         return <Contact />;
       default:
@@ -45,6 +48,12 @@ function App() {
             onClick={() => setActivePage('about')}
           >
             About
+          </span>
+          <span 
+            className={`nav-link ${activePage === 'compliance' ? 'active' : ''}`}
+            onClick={() => setActivePage('compliance')}
+          >
+            Compliance
           </span>
           <span 
             className={`nav-link ${activePage === 'contact' ? 'active' : ''}`}
